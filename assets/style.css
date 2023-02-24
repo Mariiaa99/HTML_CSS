@@ -1,0 +1,43 @@
+li{
+    display: inline;
+   margin: 30px;
+   line-height: 80px;
+
+
+   
+}
+
+body{
+    font-family: Roboto;
+    background-image: url(pexels-rachel-claire-4992382.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color:rgb(255, 225, 230);
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    padding-top: 5%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+
+nav a{
+    color: white;
+}
+}
